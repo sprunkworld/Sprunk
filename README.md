@@ -68,6 +68,18 @@ For Vercel:
 1. Import your GitHub repository on Vercel
 2. Vercel will automatically detect the settings and deploy your site
 
+## Package
+
+### Install
+```
+$ npm install -g sprunk
+$ sprunk
+```
+
+### Npm Info
+sprunk: [https://www.npmjs.com/package/sprunk](https://www.npmjs.com/package/sprunk)
+
+
 ## Links
 
 - Official Website: [https://sprunk.world](https://sprunk.world/)
