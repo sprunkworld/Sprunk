@@ -1,0 +1,16 @@
+{
+  "name": "sprunk",
+  "version": "1.0.1",
+  "description": "Sprunk.World: Play Sprunki Incredibox Mod Game Online",
+  "main": "index.js",
+  "bin": {
+    "sprunki-infected": "./index.js"
+  },
+  "keywords": [
+    "sprunk",
+    "sprunki",
+    "incredibox"
+  ],
+  "author": "sprunk",
+  "license": "MIT"
+}
